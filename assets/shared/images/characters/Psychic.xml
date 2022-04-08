@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Psychic.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PSYCHIC DOWN0000" x="7" y="40" width="566" height="834" pivotX="28.35" pivotY="-62.7" frameX="0" frameY="-4" frameWidth="566" frameHeight="838"/>
+	<SubTexture name="PSYCHIC DOWN0001" x="576" y="36" width="556" height="838" frameX="0" frameY="0" frameWidth="566" frameHeight="838"/>
+	<SubTexture name="PSYCHIC DOWN0002" x="1138" y="36" width="507" height="769" frameX="-2" frameY="-69" frameWidth="566" frameHeight="838"/>
+	<SubTexture name="PSYCHIC FLIP0000" x="1714" y="20" width="560" height="915" pivotX="106.55" pivotY="238.85" frameX="-103" frameY="-226" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0001" x="1714" y="20" width="560" height="904" frameX="-103" frameY="-238" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0002" x="2269" y="15" width="666" height="1124" frameX="0" frameY="-22" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0003" x="2269" y="15" width="666" height="1124" frameX="0" frameY="0" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0004" x="2950" y="15" width="683" height="1145" frameX="0" frameY="-22" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0005" x="2950" y="15" width="683" height="1145" frameX="0" frameY="0" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0006" x="2950" y="15" width="683" height="1145" frameX="0" frameY="-22" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0007" x="2950" y="15" width="683" height="1145" frameX="0" frameY="0" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0008" x="2950" y="15" width="683" height="1145" frameX="0" frameY="-22" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC FLIP0009" x="2950" y="15" width="683" height="1145" frameX="0" frameY="0" frameWidth="698" frameHeight="1173"/>
+	<SubTexture name="PSYCHIC IDLE0000" x="21" y="1243" width="574" height="866" pivotX="0" pivotY="0" frameX="0" frameY="-28" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0001" x="21" y="1243" width="574" height="866" frameX="0" frameY="-28" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0002" x="600" y="1243" width="574" height="874" frameX="0" frameY="-20" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0003" x="600" y="1243" width="574" height="874" frameX="0" frameY="-20" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0004" x="1177" y="1243" width="568" height="888" frameX="-2" frameY="-6" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0005" x="1177" y="1243" width="568" height="888" frameX="-2" frameY="-6" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0006" x="1750" y="1243" width="565" height="894" frameX="-2" frameY="0" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0007" x="2319" y="1243" width="565" height="884" frameX="-2" frameY="-10" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0008" x="2319" y="1243" width="565" height="884" frameX="-2" frameY="-10" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0009" x="2888" y="1243" width="565" height="890" frameX="-2" frameY="-4" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0010" x="2888" y="1243" width="565" height="890" frameX="-2" frameY="-4" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0011" x="39" y="2226" width="565" height="890" frameX="-2" frameY="-4" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0012" x="39" y="2226" width="565" height="890" frameX="-2" frameY="-4" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC IDLE0013" x="1750" y="1243" width="565" height="894" frameX="-2" frameY="0" frameWidth="574" frameHeight="894"/>
+	<SubTexture name="PSYCHIC LEFT0000" x="632" y="2255" width="532" height="849" pivotX="44" pivotY="-2.1" frameX="0" frameY="-52" frameWidth="532" frameHeight="901"/>
+	<SubTexture name="PSYCHIC LEFT0001" x="1168" y="2255" width="502" height="869" frameX="0" frameY="-32" frameWidth="532" frameHeight="901"/>
+	<SubTexture name="PSYCHIC LEFT0002" x="1674" y="2255" width="505" height="901" frameX="-2" frameY="0" frameWidth="532" frameHeight="901"/>
+	<SubTexture name="PSYCHIC POWERS0000" x="600" y="3177" width="656" height="885" pivotX="16.55" pivotY="6.25" frameX="-17" frameY="-9" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0001" x="600" y="3177" width="656" height="885" frameX="-16" frameY="-13" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0002" x="600" y="3177" width="656" height="885" frameX="-13" frameY="-18" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0003" x="1269" y="3177" width="659" height="887" frameX="-11" frameY="-16" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0004" x="1269" y="3177" width="659" height="887" frameX="-8" frameY="-13" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0005" x="1269" y="3177" width="659" height="887" frameX="-5" frameY="-10" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0006" x="1269" y="3177" width="659" height="887" frameX="-3" frameY="-8" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0007" x="1269" y="3177" width="659" height="887" frameX="0" frameY="-6" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0008" x="1269" y="3177" width="659" height="887" frameX="0" frameY="-6" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0009" x="1269" y="3177" width="659" height="887" frameX="0" frameY="-6" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0010" x="1269" y="3177" width="659" height="887" frameX="0" frameY="-6" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0011" x="1269" y="3177" width="659" height="887" frameX="0" frameY="-6" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0012" x="1269" y="3177" width="659" height="887" frameX="-2" frameY="-7" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0013" x="1269" y="3177" width="659" height="887" frameX="-4" frameY="-9" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0014" x="1269" y="3177" width="659" height="887" frameX="-7" frameY="-12" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0015" x="1269" y="3177" width="659" height="887" frameX="-9" frameY="-14" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0016" x="1269" y="3177" width="659" height="887" frameX="-11" frameY="-16" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0017" x="1269" y="3177" width="659" height="887" frameX="-14" frameY="-19" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0018" x="1269" y="3177" width="659" height="887" frameX="-16" frameY="-13" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC POWERS0019" x="1269" y="3177" width="659" height="887" frameX="-17" frameY="-9" frameWidth="677" frameHeight="923"/>
+	<SubTexture name="PSYCHIC RIGHT0000" x="2240" y="2216" width="588" height="793" pivotX="8.45" pivotY="-34.6" frameX="0" frameY="-57" frameWidth="588" frameHeight="850"/>
+	<SubTexture name="PSYCHIC RIGHT0001" x="2833" y="2216" width="578" height="850" frameX="-10" frameY="0" frameWidth="588" frameHeight="850"/>
+	<SubTexture name="PSYCHIC RIGHT0002" x="7" y="3175" width="561" height="825" frameX="-8" frameY="-25" frameWidth="588" frameHeight="850"/>
+	<SubTexture name="PSYCHIC UP0000" x="2068" y="3134" width="515" height="928" pivotX="-19.35" pivotY="54.65" frameX="-4" frameY="-13" frameWidth="519" frameHeight="941"/>
+	<SubTexture name="PSYCHIC UP0001" x="2579" y="3134" width="461" height="941" frameX="-4" frameY="0" frameWidth="519" frameHeight="941"/>
+	<SubTexture name="PSYCHIC UP0002" x="3048" y="3134" width="433" height="940" frameX="0" frameY="0" frameWidth="519" frameHeight="941"/>
+	<SubTexture name="PSYCHIC down ALT0000" x="7" y="40" width="566" height="834" pivotX="28.35" pivotY="-127" frameX="0" frameY="-13" frameWidth="519" frameHeight="773"/>
+	<SubTexture name="PSYCHIC down ALT0001" x="576" y="36" width="556" height="838" frameX="0" frameY="-13" frameWidth="519" frameHeight="773"/>
+	<SubTexture name="PSYCHIC down ALT0002" x="1138" y="36" width="507" height="769" frameX="-2" frameY="-4" frameWidth="519" frameHeight="773"/>
+	<SubTexture name="PSYCHIC left ALT0000" x="632" y="2255" width="532" height="849" pivotX="45.1" pivotY="-2.95" frameX="0" frameY="-9" frameWidth="452" frameHeight="901"/>
+	<SubTexture name="PSYCHIC left ALT0001" x="1168" y="2255" width="502" height="869" frameX="0" frameY="-9" frameWidth="452" frameHeight="901"/>
+	<SubTexture name="PSYCHIC left ALT0002" x="1674" y="2255" width="505" height="901" frameX="-3" frameY="-4" frameWidth="452" frameHeight="901"/>
+	<SubTexture name="PSYCHIC right ALT0000" x="2240" y="2216" width="588" height="793" pivotX="0" pivotY="-40.45" frameX="-2" frameY="-21" frameWidth="561" frameHeight="844"/>
+	<SubTexture name="PSYCHIC right ALT0001" x="2833" y="2216" width="578" height="850" frameX="-2" frameY="-21" frameWidth="561" frameHeight="844"/>
+	<SubTexture name="PSYCHIC right ALT0002" x="7" y="3175" width="561" height="825" frameX="0" frameY="-6" frameWidth="561" frameHeight="844"/>
+	<SubTexture name="PSYCHIC up ALT0000" x="2068" y="3134" width="515" height="928" pivotX="-17.2" pivotY="62.65" frameX="0" frameY="0" frameWidth="435" frameHeight="949"/>
+	<SubTexture name="PSYCHIC up ALT0001" x="2579" y="3134" width="461" height="941" frameX="0" frameY="0" frameWidth="435" frameHeight="949"/>
+	<SubTexture name="PSYCHIC up ALT0002" x="3048" y="3134" width="433" height="940" frameX="-2" frameY="-8" frameWidth="435" frameHeight="949"/>
+</TextureAtlas>
