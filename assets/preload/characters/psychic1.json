@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PSYCHIC IDLE"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PSYCHIC UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-82
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PSYCHIC DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PSYCHIC RIGHT"
+		},
+		{
+			"offsets": [
+				12,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PSYCHIC LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Psychic",
+	"position": [
+		0,
+		-115
+	],
+	"healthicon": "psychic",
+	"flip_x": false,
+	"healthbar_colors": [
+		88,
+		7,
+		135
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
