@@ -909,7 +909,7 @@ class PlayState extends MusicBeatState
 		scoreTxt.visible = !ClientPrefs.hideHud;
 		add(scoreTxt);
 		
-		var creditTxt:FlxText = new FlxText(4,healthBarBG.y + 20,0,("Port By Red Engineer Ch"), 24);
+		var creditTxt:FlxText = new FlxText(4,healthBarBG.y + 20,0,("Port By Ink Demon"), 24);
         creditTxt.scrollFactor.set();
         creditTxt.setFormat("VCR OSD Mono", 24, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
         creditTxt.borderColor = FlxColor.BLACK;
